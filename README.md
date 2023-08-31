@@ -21,8 +21,36 @@ https://github.com/join
 ---
 ### Do your first pull request
 
+Please follow the steps below to do your first pull request!  
 
----
+Pull requests (PR) are a way for a user to contribute to a main reposity. For example, if a user wants to contribute new code or prose to an already created repository all they need to do is 'pull' the main branch of that repo and then make some changes and then 'request' for it to be merged into the main branch. That's all! Here are some steps below. 
+
+1. Use Git Bash via `command line` or `terminal` to clone a repo to a local folder.
+```
+#### go to folder directory of choice
+
+cd D:\some_directory\i_want_to\use
+
+#### now clone into that directory
+
+git clone http://github.com/soilwaterfish/swf-colab
+```
+2. Now you will have this repository in your local folder.
+3. Open the `README.md` document in notepad and make a change by putting your name in the `Contributors` toggle (you'll see a bunch of names there 😃).
+4. Save those changes and close the notepad.
+5. Now in Git via `command line` or `terminal` push your changes to this repo.
+6. Your changes will now need to be merged by the repo manager and you just did your first PR!!!!
+
+If you have any **issues**, please go the the [issues](https://github.com/joshualerickson/swf-colab/issues) tab.
+
+Thanks!
+
+<details>
+
+<summary>Contributors</summary>
+</details>  
+
+---  
 ### Packages, libraries, etc  
 
 <details>
