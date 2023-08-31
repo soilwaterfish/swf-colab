@@ -3,12 +3,12 @@ This is a repository for all things analysis, discussion, and collaboration.
 
 It is meant to be **language agnostic!**
 
-* For **Discussions** please go to the [Discussions](https://github.com/joshualerickson/swf-colab/discussions) tab.
-* For any **issues** please go the the [issues](https://github.com/joshualerickson/swf-colab/issues) tab. 
+* For **Discussions** please go to the [Discussions](https://github.com/soilwaterfish/swf-colab/discussions) tab.
+* For any **issues** please go the the [issues](https://github.com/soilwaterfish/swf-colab/issues) tab. 
 
 Below is a list of some content to help with navigating the wide world of tools! 
 
-Please, if you have any suggestions for the lists feel free to [**PR**](https://github.com/joshualerickson/swf-colab/pulls)! 
+Please, if you have any suggestions for the lists feel free to [**PR**](https://github.com/soilwaterfish/swf-colab/pulls)! 
 
 Thanks!
 
@@ -65,7 +65,7 @@ git push
 
 There are so many ways to do this and interact with Git and GitHub but this is just a way to get you started!
 
-If you have any **issues**, please go the the [issues](https://github.com/joshualerickson/swf-colab/issues) tab.
+If you have any **issues**, please go the the [issues](https://github.com/soilwaterfish/swf-colab/issues) tab.
 
 Thanks!
 
