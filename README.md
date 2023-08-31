@@ -48,6 +48,9 @@ Thanks!
 <details>
 
 <summary>Contributors</summary>
+
+Josh Erickson
+
 </details>  
 
 ---  
