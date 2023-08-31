@@ -33,7 +33,7 @@ cd D:\some_directory\i_want_to\use
 
 #### now clone into that directory
 
-git clone http://github.com/soilwaterfish/swf-colab
+git clone https://github.com/soilwaterfish/swf-colab.git
 ```
 2. Now you will have this repository in your local folder.
 3. Open the `README.md` document in notepad and make a change by putting your name in the `Contributors` toggle (you'll see a bunch of names there 😃).
