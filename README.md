@@ -25,23 +25,29 @@ Please follow the steps below to do your first pull request!
 
 Pull requests (PR) are a way for a user to contribute to a main reposity. For example, if a user wants to contribute new code or prose to an already created repository all they need to do is 'pull' the main branch of that repo and then make some changes and then 'request' for it to be merged into the main branch. That's all! Here are some steps below. 
 
-1. Use Git Bash via `command line` or `terminal` to clone a repo to a local folder.
+1. First you'll need to create a `fork` of this repository.
+
+![image](https://github.com/soilwaterfish/swf-colab/assets/43348065/39735868-0404-4403-ac76-a79b46a098a1)
+
+
+2. This will create a copy of this repo but in your profile.
+3. Use Git Bash via `command line` or `terminal` to clone the forked repo to a local folder.
 ```
 #### go to folder directory of choice
 
 cd D:\some_directory\i_want_to\use
 
-#### now clone into that directory
+#### now clone into that directory (remember to use your username)
 
-git clone https://github.com/soilwaterfish/swf-colab.git
+git clone https://github.com/yourusersame/swf-colab.git
 ```
-2. Now you will have this repository in your local folder.
-3. Open the `README.md` document in notepad and make a change by putting your name in the `Contributors` toggle (you'll see a bunch of names there 😃).
+4. Now you will have this repository in your local folder.
+5. Open the `README.md` document in notepad and make a change by putting your name in the `Contributors` toggle (you'll see a bunch of names there 😃).
 
 ![image](https://github.com/soilwaterfish/swf-colab/assets/43348065/9a276b89-4077-4117-87cd-c4a97582af03)
 
-4. Save those changes and close the notepad.
-5. Now in Git via `command line` or `terminal` push your changes to this repo but first we'll initialize.
+6. Save those changes and close the notepad.
+7. Now in Git via `command line` or `terminal` push your changes to this repo but first we'll **initialize**. All this is doing is creating a file with information about the forked repo. Essentially, telling it were to go when you start talking to Git.
 
 ```
 #### go to folder directory where it cloned
@@ -64,8 +70,15 @@ git commit -m 'first PR'
 
 git push
 ```
+6. Now go back to your forked repo online and create a pull request by selecting the green tab.
+   
+![image](https://github.com/soilwaterfish/swf-colab/assets/43348065/4c1dd2bd-6353-4832-80a3-ba58f2878665)
 
-6. Your changes will now need to be merged by the repo manager and you just did your first PR!!!!
+7. Now you can merge your forked repo with the soilwaterfish repo.
+
+<img width="914" alt="MicrosoftTeams-image" src="https://github.com/soilwaterfish/swf-colab/assets/43348065/df695605-b9e5-4ee9-b146-44c341381ca7">
+
+7. Your changes will now need to be merged by the repo manager and you just did your first PR!!!!
 
 There are so many ways to do this and interact with Git and GitHub but this is just a way to get you started!
 
