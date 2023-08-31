@@ -1,5 +1,5 @@
 # swf-colab
-This is a temporary repository for all things analysis, discussion, and collaboration. 
+This is a repository for all things analysis, discussion, and collaboration. 
 
 It is meant to be **language agnostic!**
 
@@ -37,9 +37,33 @@ git clone http://github.com/soilwaterfish/swf-colab
 ```
 2. Now you will have this repository in your local folder.
 3. Open the `README.md` document in notepad and make a change by putting your name in the `Contributors` toggle (you'll see a bunch of names there 😃).
+
+![image](https://github.com/soilwaterfish/swf-colab/assets/43348065/9a276b89-4077-4117-87cd-c4a97582af03)
+
 4. Save those changes and close the notepad.
-5. Now in Git via `command line` or `terminal` push your changes to this repo.
+5. Now in Git via `command line` or `terminal` push your changes to this repo but first we'll initialize.
+
+```
+#### go to folder directory where it cloned
+
+cd swf-colab
+
+#### now 'add' your changes
+
+git add README.md
+
+#### commit those changes
+
+git commit -m 'first PR'
+
+#### now push to main
+
+git push
+```
+
 6. Your changes will now need to be merged by the repo manager and you just did your first PR!!!!
+
+There are so many ways to do this and interact with Git and GitHub but this is just a way to get you started!
 
 If you have any **issues**, please go the the [issues](https://github.com/joshualerickson/swf-colab/issues) tab.
 
@@ -54,6 +78,9 @@ Josh Erickson
 </details>  
 
 ---  
+
+Please do a pull request and add any links below!!!  
+
 ### Packages, libraries, etc  
 
 <details>
