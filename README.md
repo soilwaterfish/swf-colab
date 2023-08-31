@@ -48,6 +48,10 @@ git clone https://github.com/soilwaterfish/swf-colab.git
 
 cd swf-colab
 
+#### now initialize git
+
+git init
+
 #### now 'add' your changes
 
 git add README.md
